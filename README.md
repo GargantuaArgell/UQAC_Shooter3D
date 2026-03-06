@@ -6,7 +6,8 @@ Ce dépôt contient le code source et les assets d'un projet axé sur la concept
 
 * **Cours :** Intelligence Artificielle dans le domaine du jeu vidéo
 * **Session :** Hiver 2025/2026
-* **Contributeurs :** * Sutakos
+* **Contributeurs :**
+    * Sutakos
     * GargantuaArgell
 
 ## Spécifications Techniques
